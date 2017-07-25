@@ -11,8 +11,8 @@
 * [x] Dictionary
 * [x] Function
 * [x] Module
-* [ ] Exception handling
 * [x] Class
+* [ ] Exception handling
 * [ ] Testing with pytest
 * [ ] List Comprehensions
 
