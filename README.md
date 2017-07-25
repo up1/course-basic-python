@@ -14,6 +14,7 @@
 * [ ] Exception handling
 * [x] Class
 * [ ] Testing with pytest
+* [ ] List Comprehensions
 
 ## Python for Data Science
 * TODO
