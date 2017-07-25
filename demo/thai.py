@@ -1,0 +1,2 @@
+message = "สวัสดีภาษาไทย"
+print(message)
