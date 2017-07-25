@@ -1,0 +1,5 @@
+a = int(input("Enter a : "))
+b = int(input("Enter b : "))
+print(type(a))
+print(type(b))
+print( a + b )
