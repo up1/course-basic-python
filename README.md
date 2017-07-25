@@ -13,6 +13,7 @@
 * [x] Module
 * [ ] Exception handling
 * [x] Class
+* [ ] Testing with pytest
 
 ## Python for Data Science
 * TODO
@@ -21,5 +22,7 @@
 * https://docs.python.org/3/
 * https://www.tutorialspoint.com/python3
 * https://www.learnpython.org
+* https://learnpythonthehardway.org/
+* https://docs.pytest.org/en/latest/index.html
 * https://www.datacamp.com/courses/intro-to-python-for-data-science
 
