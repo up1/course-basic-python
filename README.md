@@ -1,18 +1,18 @@
 # Course Python for beginner
 
 ## Basic of Python
-* Python 2.x vs Python 3.x
-* Basic syntax
-* Type and Variable
-* Control flow => If, For, While
-* String
-* List
-* Tuple
-* Dictionary
-* Function
-* Module
-* Exception handling
-* Class
+* [x] Python 2.x vs Python 3.x
+* [x] Basic syntax
+* [x] Type and Variable
+* [x] Control flow => If, For, While
+* [x] String
+* [x] List
+* [x] Tuple
+* [x] Dictionary
+* [x] Function
+* [x] Module
+* [ ] Exception handling
+* [x] Class
 
 ## Python for Data Science
 * TODO
