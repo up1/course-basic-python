@@ -16,3 +16,13 @@ employee["firstname"] = "New name"
 employee["age"] = 20
 
 print(employee)
+
+# Delete
+del employee["firstname"]
+print(employee)
+
+employee.clear()
+print(employee)
+
+del employee
+print(employee)
