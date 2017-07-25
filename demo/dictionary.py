@@ -6,6 +6,10 @@ employee = {"firstname": "Somkiat",
 
 print(employee)
 
+#Iterate
+for key, value in employee.items():
+    print("%s : %s" %(key, value))
+
 # Access value in dictionary
 print(employee["firstname"])
 print(employee["lastname"])
