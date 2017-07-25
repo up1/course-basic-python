@@ -17,3 +17,9 @@
 ## Python for Data Science
 * TODO
 
+## Resources
+* https://docs.python.org/3/
+* https://www.tutorialspoint.com/python3
+* https://www.learnpython.org
+* https://www.datacamp.com/courses/intro-to-python-for-data-science
+
