@@ -17,7 +17,19 @@
 * [ ] List Comprehensions
 
 ## Python for Data Science
-* TODO
+* [ ] Data analysis process
+* [ ] Introduction to Numpy
+* [ ] Introduction to Pandas
+* [ ] Introduction to Matplotlib
+* [ ] Pandas workshop
+  * [ ] Loading data
+  * [ ] Data cleaning and preparation
+  * [ ] Data wrangling
+  * [ ] Tips and Tricks
+  * [ ] Workshop for practice !!
+* [ ] Ploting and visualization
+* [ ] Data aggregation and grouping
+* [ ] Time series
 
 ## Resources
 * https://docs.python.org/3/
