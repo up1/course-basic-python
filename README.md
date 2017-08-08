@@ -39,4 +39,5 @@
 * https://docs.pytest.org/en/latest/index.html
 * https://www.datacamp.com/courses/intro-to-python-for-data-science
 * https://github.com/bulutyazilim/awesome-datascience
+* https://www.continuum.io/downloads
 
